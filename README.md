@@ -70,9 +70,3 @@ ai-learning-roadmap/
 │── progress_log.md           # Daily/weekly progress updates
 
 <img width="435" height="305" alt="image" src="https://github.com/user-attachments/assets/5b399fee-adbd-4bef-aea8-f394f09f3786" />
-ai-learning-roadmap/
-│── README.md # This roadmap
-│── roadmap/ # Roadmap PDFs
-│── notes/ # Weekly notes
-│── code/ # Python/ML projects
-│── progress_log.md # Daily/weekly updates
