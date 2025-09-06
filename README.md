@@ -51,3 +51,21 @@ By **December 2025**, I want to:
 ---
 
 ## 📂 Repo Structure
+ai-learning-roadmap/
+│── README.md                # Overview of your roadmap & goals
+│── roadmap/
+│   ├── AI_Roadmap_Weeks1_4.pdf   # Checklist PDFs
+│   └── (future weeks PDFs)
+│── notes/
+│   ├── week1_python_math.md
+│   ├── week2_stats_ml_intro.md
+│   ├── week3_core_ml.md
+│   └── week4_intermediate_ml.md
+│── code/
+│   ├── week1/                # Python exercises
+│   ├── week2/                # Titanic dataset experiments
+│   ├── week3/                # Regression & Classification models
+│   └── week4/                # Customer churn mini-project
+│── datasets/ (optional, or link to Kaggle instead)
+│── progress_log.md           # Daily/weekly progress updates
+<img width="435" height="305" alt="image" src="https://github.com/user-attachments/assets/5b399fee-adbd-4bef-aea8-f394f09f3786" />
