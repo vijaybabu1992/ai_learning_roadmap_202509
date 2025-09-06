@@ -70,3 +70,16 @@ ai-learning-roadmap/
 │── progress_log.md           # Daily/weekly progress updates
 
 <img width="435" height="305" alt="image" src="https://github.com/user-attachments/assets/5b399fee-adbd-4bef-aea8-f394f09f3786" />
+
+
+
+---
+
+## 📝 Progress Log
+Check [progress_log.md](progress_log.md) for daily/weekly updates.  
+
+---
+
+## 🌟 Final Note
+This repo is my **AI journey tracker** → from Python to Agentic AI.  
+If you’re also learning AI, feel free to **star ⭐ and follow along**!
