@@ -68,4 +68,5 @@ ai-learning-roadmap/
 │   └── week4/                # Customer churn mini-project
 │── datasets/ (optional, or link to Kaggle instead)
 │── progress_log.md           # Daily/weekly progress updates
+
 <img width="435" height="305" alt="image" src="https://github.com/user-attachments/assets/5b399fee-adbd-4bef-aea8-f394f09f3786" />
